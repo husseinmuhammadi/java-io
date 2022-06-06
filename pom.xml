@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>basic-io</module>
+        <module>file</module>
     </modules>
 
     <properties>
