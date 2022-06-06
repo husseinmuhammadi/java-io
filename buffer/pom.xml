@@ -10,7 +10,7 @@
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>file</artifactId>
+    <artifactId>buffer</artifactId>
 
     <properties>
         <main-class>com.javastudio.tutorial.Application</main-class>
